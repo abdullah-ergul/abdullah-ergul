@@ -1,4 +1,9 @@
 ### Hi there 👋
+👋 Hi, I’m Abdullah Ergul
+👀 I’m interested in computers and softwares.
+📖 I'm studying Computer Engineering at Karabuk Universty.
+🌱 I’m currently learning C, Python, Artificial Intelligence...
+📫 E-mail: abdullahergul23@gmail.com
 
 <!--
 **abdullah-ergul/abdullah-ergul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

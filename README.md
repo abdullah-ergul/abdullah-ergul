@@ -1,8 +1,10 @@
 <h1 align="center">Hi There👋, I'm Abdullah Ergul</h1>
 <h3 align="center">I'm studying Computer Engineering at Karabuk University in Turkey</h3>
 
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=abdullah-ergul.abdullah-ergul)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+
 
 - 👨‍💻 I’m Abdullah Ergul
 - 📖 I'm studying Computer Engineering at Karabuk Universty.
@@ -11,8 +13,10 @@
 - 🌱 I’m currently learning C, Python, Artificial Intelligence...
 - 📫 E-mail: abdullahergul23@gmail.com
 
+
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=abdullah-ergul&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ## 🔧 Technologies & Tools
 <p align="left"> 
@@ -27,8 +31,11 @@
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<br />
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullah-ergul&show_icons=true&locale=en&layout=compact" alt="abdullah-ergul" /></p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -43,6 +50,7 @@
 <a href="https://discord.gg/Hh98uP3mgW" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Hh98uP3mgW" height="30" width="40" /></a>
 </p>
 <br />
+
 
 ## 🗂️ Highlight Projects
 <p align="left"><a href="https://github.com/abdullah-ergul/C_Programming_Language">

@@ -2,6 +2,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullah-ergul&label=Profile%20views&color=0e75b6&style=flat" alt="abdullah-ergul" /> </p>
 
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=abdullah-ergul&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdullah-ergul" alt="abdullah-ergul" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>

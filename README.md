@@ -2,7 +2,7 @@
 <h3 align="center">I'm studying Computer Engineering at Karabuk University in Turkey</h3>
 
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=abdullah-ergul.abdullah-ergul))
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=abdullah-ergul.abdullah-ergul)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 

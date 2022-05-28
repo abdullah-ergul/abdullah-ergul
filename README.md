@@ -58,6 +58,3 @@
 <a href="https://github.com/abdullah-ergul/VentusOVC">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abdullah-ergul&repo=VentusOVC&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="VentusOVC" />
 </a>
-  
-  
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah-ergul&" alt="abdullah-ergul" /></p>

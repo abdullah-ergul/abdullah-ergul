@@ -1,4 +1,4 @@
-<h1 align="center">Hi There👋, I'm Abdullah Ergul</h1>
+<h1 align="center">Hi 👋, I'm Abdullah Ergul</h1>
 <h3 align="center">I'm studying Computer Engineering at Karabuk University in Turkey</h3>
 
 
@@ -6,8 +6,6 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 
-- 👨‍💻 I’m Abdullah Ergul
-- 📖 I'm studying Computer Engineering at Karabuk Universty.
 - 👀 I’m interested in computers and softwares.
 - 🔭 I’m currently working on Ventus UAV project.
 - 🌱 I’m currently learning C, Python, Artifical Intelligence...

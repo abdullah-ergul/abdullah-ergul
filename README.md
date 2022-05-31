@@ -8,7 +8,7 @@
 
 - 👀 I’m interested in computers and softwares.
 - 🔭 I’m currently working on Ventus UAV project.
-- 🌱 I’m currently learning C, Python, Artifical Intelligence..
+- 🌱 I’m currently learning C, Python, Artifical Intelligence...
 - 📫 E-mail: abdullahergul23@gmail.com
 
 

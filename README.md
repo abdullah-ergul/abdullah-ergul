@@ -13,7 +13,7 @@
 
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=abdullah-ergul&theme=darkhub&column=7)
+![trophy](https://github-profile-trophy.vercel.app/?username=abdullah-ergul&theme=darkhub&column=7)
 
 
 ## 🔧 Technologies & Tools

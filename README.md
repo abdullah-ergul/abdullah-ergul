@@ -6,10 +6,10 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 
-- 📚 My specialty is Python and artificial intelligence. (Still in the learning)
+- 📚 My specialty is Python and Artifical Intelligence. (Still in the learning)
 - 👀 I’m interested in computers and softwares.
 - 🔭 I’m currently working on an assistant at the Karabuk University.
-- 🌱 I’m currently learning C, C++, Data Science, Artifical Intelligence...
+- 🌱 I’m currently learning C, C++, Data Science, Machine Learning, Deep Learning...
 - 📫 E-mail: abdullahergul23@gmail.com
 
 

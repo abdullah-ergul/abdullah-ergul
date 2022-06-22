@@ -10,7 +10,7 @@ if [[ "$choice" -eq "yes" ]]
 then
 	echo "It's here: https://www.linkedin.com/in/abdullah-ergul"
 else
-	echo "Goodbye.."
+	echo "Goodbye..."
 fi
 
 read $empty

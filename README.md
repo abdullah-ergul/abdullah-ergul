@@ -9,7 +9,7 @@
 - 📚 My specialty is Python and Artifical Intelligence. (Still in learning phease)
 - 👀 I’m interested in computers and softwares.
 - 🔭 I’m currently working on an assistant at the Karabuk University.
-- 🌱 I’m currently learning C, C++, Data Science, Machine Learning, Deep Learning..
+- 🌱 I’m currently learning C, C++, Data Science, Machine Learning, Deep Learning...
 - 📫 E-mail: abdullahergul23@gmail.com
 
 

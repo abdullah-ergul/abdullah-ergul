@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdullah Ergul</h1>
-<h3 align="center">I'm studying Computer Engineering at Karabuk University in Turkey</h3>
+<h3 align="center">I'm studying Computer Engineering at Karabuk University in Türkiye</h3>
 
 
 <div align="center">
@@ -11,15 +11,15 @@
 </div><br />
 
 
-- 📚 My specialty is Computer Science. (Still in learning phease) 
+- 📚 My specialty is Artificial Intelligence.
 - 🔮 I'm interested in Mathematics and Physics.
 - 🔭 I participate in,
      - 22-23 | Programming Languages I
-     - 23-24 | Data Structures & Object Oriented Programming & Prog. Lang. I & Prog. Lang. II
+     - 23-24 | Algorithms & Data Structures & OOP & Prog. Lang. I & Prog. Lang. II
 
   lectures as an assistant student.
 - ❔ Ask me about C, Python and Algorithms.
-- 🎓 I'm currently learning Machine Learning and Artificial Intelligence...
+- 🎓 I'm currently learning Data Mining, Data Science, Deep Learning ...
 - ✉️ My e-mail: abdullahergul23@gmail.com
 <br />
 

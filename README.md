@@ -28,7 +28,7 @@
 <div align="center">
     <a href="https://github.com/abdullah-ergul">
         <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=abdullahergul&show_icons=true&theme=transparent&count_private=true&layout=compact&langs_count=10"/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-ergul&layout=compact&hide=CMake,Makefile&langs_count=10&theme=transparent"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-ergul&layout=compact&hide=CMake,Makefile&langs_count=10&theme=transparent&size_weight=0.5&count_weight=0.5"/>
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdullah-ergul&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
     </a> 
 </div>

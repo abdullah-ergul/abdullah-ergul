@@ -11,15 +11,15 @@
 </div><br />
 
 
-- 📚 My specialty is Artificial Intelligence.
-- 🔮 I'm interested in Mathematics and Physics.
-- 🔭 I participate in,
+- 📚 My specialty is Data Science & Artificial Intelligence.
+- 🔭 I'm interested in Mathematics and Physics.
+- 👨‍🏫 I participate in,
      - 22-23 | Programming Languages I
      - 23-24 | Algorithms & Data Structures & OOP & Prog. Lang. I & Prog. Lang. II
+     - 24-25 | Programming Languages I
 
   lectures as an assistant student.
-- ❔ Ask me about C, Python and Algorithms.
-- 🎓 I'm currently learning Data Mining, Data Science, Deep Learning ...
+- ✨ I love making models, shooting and swimming
 - ✉️ My e-mail: abdullahergul23@gmail.com
 <br />
 
@@ -29,7 +29,6 @@
     <a href="https://github.com/abdullah-ergul">
         <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=abdullahergul&show_icons=true&theme=transparent&count_private=true&layout=compact&langs_count=10"/>
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-ergul&layout=compact&hide=CMake,Makefile&langs_count=10&theme=transparent&size_weight=0.5&count_weight=0.5"/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdullah-ergul&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
     </a> 
 </div>
 
@@ -37,13 +36,10 @@
 ## 🛠️ Technologies & Tools
 <p align="left"> 
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
     <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-    <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/N/numpy-logo-479C24EC79-seeklogo.com.png" alt="numpy" width="40" height="40"/> </a> 
-    <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1200px-Matplotlib_icon.svg.png" alt="matplotlib" width="40" height="40"/> </a> 
+    <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://cdnlogo.com/logos/n/81/numpy.svg" alt="numpy" width="40" height="40"/> </a> 
     <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
     <a href="https://www.adobe.com/in/products/premiere.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/1200px-Adobe_Premiere_Pro_CC_icon.svg.png" alt="premiere_pro" width="40" height="40"/> </a> 

@@ -19,7 +19,7 @@
      - 24-25 | Programming Languages I
 
   lectures as an assistant student.
-- ✨ I love making models, shooting and swimming
+- ✨ I love making models, playing violin and swimming
 - ✉️ My e-mail: abdullahergul23@gmail.com
 <br />
 
